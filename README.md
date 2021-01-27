@@ -2,7 +2,7 @@ XAMPP - HTDOCS
 
 Start Apache / MySQL
 
-Navigate to http://localhost/phplogin/phpchatroom/
+Navigate to http://localhost/phpchatroom/
 
 ![login page](https://imgur.com/XX8sh00.png)
 
